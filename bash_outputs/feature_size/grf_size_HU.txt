@@ -1,0 +1,30 @@
+######################
+TOTAL SIZES OF CHR21 GENE FEATURES:
+
+coding exons:
+1024308
+5' UTR:
+359353
+3' UTR:
+998696
+
+######
+TOTAL SIZES OF CHR21 REG FEATURES:
+all regulatory features:
+32981554
+TSS:
+205077
+PF:
+14300
+E:
+611839
+WE:
+27407
+CTCF:
+339020
+T:
+7882648
+R:
+24472767
+
+######################s

@@ -1,0 +1,91 @@
+###################################
+TOTAL NUMBER OF:
+
+coding exons:
+    6516
+5' UTR:
+    1786
+3' UTR:
+    1434
+
+###################################
+CHR21 REPEATS COUNT
+coding exons:
+     164
+5' UTR:
+     409
+3' UTR:
+     488
+##################
+LINEs COUNT
+coding exons:
+      23
+5' UTR:
+      70
+3' UTR:
+      92
+##################
+SINEs COUNT
+coding exons:
+      24
+5' UTR:
+      80
+3' UTR:
+     146
+##################
+LTRs COUNT
+coding exons:
+      14
+5' UTR:
+     123
+3' UTR:
+      84
+##################
+DNA TRANSPOSONS COUNT
+coding exons:
+      10
+5' UTR:
+      29
+3' UTR:
+      52
+##################
+SATELLITE DNA COUNT
+coding exons:
+       3
+5' UTR:
+       6
+3' UTR:
+       0
+###################################
+L1 (LINE) COUNT
+coding exons:
+       5
+5' UTR:
+      39
+3' UTR:
+      46
+##################
+ALU (SINE) COUNT
+coding exons:
+      20
+5' UTR:
+      49
+3' UTR:
+     102
+##################
+ERVK (LTR) COUNT
+coding exons:
+       0
+5' UTR:
+       2
+3' UTR:
+       1
+##################
+TCMAR (DNA TRANSPOSON) COUNT
+coding exons:
+       0
+5' UTR:
+       9
+3' UTR:
+      14
+###################################

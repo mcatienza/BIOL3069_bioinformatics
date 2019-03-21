@@ -1,0 +1,114 @@
+##########################
+TOTAL SIZE OF(bp):
+
+all repeats in chr21:
+16976772
+LINEs:
+6731773
+SINEs:
+3952564
+LTRs:
+4179247
+DNA TRANSPOSONS:
+1227204
+SATELLITE DNA:
+172293
+
+L1:
+5628626
+ALU:
+3298465
+ERVK:
+81812
+TCMAR:
+480429
+
+##########################
+CHR21 OVERLAPPING REPEATS SIZES
+coding exons:
+9395
+5' UTR:
+53771
+3' UTR:
+71587
+##################
+LINEs SIZE
+coding exons:
+1514
+5' UTR:
+10272
+3' UTR:
+15823
+##################
+SINEs SIZE
+coding exons:
+1656
+5' UTR:
+11066
+3' UTR:
+25784
+##################
+LTRs SIZE
+coding exons:
+912
+5' UTR:
+24567
+3' UTR:
+18061
+##################
+DNA TRANSPOSONS SIZE
+coding exons:
+703
+5' UTR:
+2869
+3' UTR:
+7274
+##################
+SATELLITE DNA SIZE
+coding exons:
+114
+5' UTR:
+895
+3' UTR:
+0
+##################
+OTHER (inc. SAT)
+coding exons:
+4610
+5' UTR:
+4997
+3' UTR:
+4645
+###################################
+L1 (LINE) SIZE
+coding exons:
+334
+5' UTR:
+6803
+3' UTR:
+9452
+##################
+ALU (SINE) SIZE
+coding exons:
+1560
+5' UTR:
+7767
+3' UTR:
+20892
+##################
+ERVK (LTR) SIZE
+coding exons:
+0
+5' UTR:
+314
+3' UTR:
+413
+##################
+TCMAR (DNA TRANSPOSON) SIZE
+coding exons:
+0
+5' UTR:
+1036
+3' UTR:
+1933
+###################################
